@@ -8,13 +8,16 @@ In this projects we are focusing in musical instruments reviews. The task will b
 
 Before showing the results you can see here the demanded data sets for this projects uploaded in pgAdmin. You will also see the pySpark session working properly in the **Google Colab**.
 
-
+**Review ID DF**
 <img width="612" alt="Captura de Pantalla 2022-04-26 a la(s) 15 50 07" src="https://user-images.githubusercontent.com/84519822/165405081-5f95e5bb-e74b-4d86-accf-e510a6f875e9.png">
 
+**Customer ID DF**
 <img width="751" alt="Captura de Pantalla 2022-04-26 a la(s) 15 50 23" src="https://user-images.githubusercontent.com/84519822/165405097-6a3f2da6-f1ff-4801-ab80-798d748c194e.png">
 
+**Product ID DF**
 <img width="299" alt="Captura de Pantalla 2022-04-26 a la(s) 15 50 38" src="https://user-images.githubusercontent.com/84519822/165405108-091d662d-f84e-452b-ad4a-d155be3a6c76.png">
 
+**Vine Program**
 <img width="701" alt="Captura de Pantalla 2022-04-26 a la(s) 15 50 56" src="https://user-images.githubusercontent.com/84519822/165405121-b0cd3eba-995c-414a-a1a1-de88e4c3a2e8.png">
 
 
