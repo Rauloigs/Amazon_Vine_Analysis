@@ -31,21 +31,31 @@ Before showing the results you can see here the demanded data sets for this proj
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
-- How many Vine reviews and non-Vine reviews were there?
+To be able to answer this questions we used the same AWS Music Instruments Data Set. And decided just to leave the rows where the total vote were greater than 20, in order to keeo our data relevant. You can see the code in the follwoing image:
+
+
+<img width="1107" alt="Captura de Pantalla 2022-04-27 a la(s) 20 43 58" src="https://user-images.githubusercontent.com/84519822/165659756-22bd2542-44fa-4574-bfca-24c865c5b684.png">
+
+
+
+1. How many Vine reviews and non-Vine reviews were there?
 
 **Total Vine Reviews:** 60
+
 **Total non-Vine Reviews:** 14,477
 
 *To see the results of this question and the follwing in the code [click here](https://github.com/Rauloigs/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)*
 
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 **Total Vine Reviews w/ 5 Starts:** 34
+
 **Total non-Vine Reviews w/ 5 Starts:** 8,212
 
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 **% Vine Reviews w/ 5 Starts:** 56.66
+
 **% non-Vine Reviews w/ 5 Starts:** 56.72
 
 
